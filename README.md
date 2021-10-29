@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Manav Garg
 
 <!--
 **thehumangarg/thehumangarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thehumangarg&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thehumangarg&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
